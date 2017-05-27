@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150629</CreaDate><CreaTime>11142900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPoint" Date="20150629" Time="105910">RasterToPoint sink_extract.tif J:\不透水面产汇流数据20150611\IDL20150625\output\1_direction\sink_tif\sinkpoint.shp Value</Process></lineage></DataProperties></Esri></metadata>

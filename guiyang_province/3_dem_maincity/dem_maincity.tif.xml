@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150613</CreaDate><CreaTime>16281800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20150613" Time="162818">ExtractByMask dem_city.tif 贵阳主城区3 J:\不透水面产汇流数据20150611\1_输入数据\3_dem_maincity\dem_maincity.tif</Process></lineage></DataProperties></Esri></metadata>
